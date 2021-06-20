@@ -330,6 +330,16 @@ Cocktail
   border-radius: var(--mainBorderRadius);
   color: var(--primaryColor);
 }
+.extra-data {
+  background: var(--primaryLightColor);
+  padding: 0.25rem 0.5rem;
+  padding-top: 0.1rem;
+  border-radius: var(--mainBorderRadius);
+  color: var(--primaryColor);
+}
+.extra {
+  margin-top: 1.2rem;
+}
 .drink-info {
   padding-top: 2rem;
 }
